@@ -1,5 +1,8 @@
 ### Hi there 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝑺𝒂𝒏𝒅𝒓𝒂 𝑫𝒆 𝑻𝒆𝒏𝒂'𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎! 👋
 
+![Patterns_2_Bombilla](https://user-images.githubusercontent.com/81963098/129262490-70acf042-67d7-41f5-b9e7-b57c1fc9d724.gif)
+
+
 
 <!--
 **SandraDeTena/SandraDeTena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
