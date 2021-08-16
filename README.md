@@ -13,11 +13,12 @@ https://user-images.githubusercontent.com/81963098/129561679-a72d1f53-055c-4578-
 𝚀𝚞𝚒𝚎𝚛𝚘 𝚌𝚘𝚕𝚊𝚋𝚘𝚛𝚊𝚛 𝚢 𝚌𝚘𝚗𝚜𝚝𝚛𝚞𝚒𝚛 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚘𝚜 𝚊𝚜𝚘𝚖𝚋𝚛𝚘𝚜𝚘𝚜 𝚙𝚘𝚛 𝚝𝚘𝚍𝚘 𝚎𝚕 𝚖𝚞𝚗𝚍𝚘🌍. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📫 How to reach me: | - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+<div align = "center">
+
+ 📫 How to reach me: | 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 Sigue a sandradetena en:
 
-<div align = "center">
 <a title="Follow Sandra De Tena" href="https://www.linkedin.com/in/sandradetena/"><img src="https://user-images.githubusercontent.com/81963107/126789749-2308c50d-5b6a-4c51-b3f6-2afa1ff8a4ed.png" alt="Follow Sandra De Tena" width= "42px" height= "42px"></a>    
 </div>
 
