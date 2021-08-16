@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/81963098/129561679-a72d1f53-055c-4578-
 
 Sigue a sandradetena en 
 <div align = "center">
-<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="default.asp"><img src="smiley.gif" alt="Folow Sandra De Tena" style="width:42px;height:42px;"></a>
     
 </div>
 
