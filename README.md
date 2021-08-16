@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/81963098/129561679-a72d1f53-055c-4578-
 Sigue a sandradetena en 
 
 <div align = "center">
-[<img src="https://user-images.githubusercontent.com/81963107/126789749-2308c50d-5b6a-4c51-b3f6-2afa1ff8a4ed.png" height="40em" alt="Follow sandradetena on LinkedIn" title="Follow sandradetena on LinkedIn" />](https://www.linkedin.com/in/sandradetena/)
+    <img src= "https://www.linkedin.com/in/sandradetena/" height="40em" alt="Follow sandradetena on LinkedIn" title="Follow sandradetena on LinkedIn" />
 </div>
 
 
