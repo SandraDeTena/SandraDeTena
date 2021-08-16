@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/81963098/129561679-a72d1f53-055c-4578-
 Sigue a sandradetena en:
 
 <div align = "center">
-<a title="Follow Sandra De Tena" href="https://www.linkedin.com/in/sandradetena/"><img src="https://user-images.githubusercontent.com/81963107/126789749-2308c50d-5b6a-4c51-b3f6-2afa1ff8a4ed.png" alt="Follow Sandra De Tena" style="width:42px;height:42px;"></a>    
+<a title="Follow Sandra De Tena" href="https://www.linkedin.com/in/sandradetena/"><img src="https://user-images.githubusercontent.com/81963107/126789749-2308c50d-5b6a-4c51-b3f6-2afa1ff8a4ed.png" alt="Follow Sandra De Tena" width= "42px" height= "42px"></a>    
 </div>
 
 
